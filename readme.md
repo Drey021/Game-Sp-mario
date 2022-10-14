@@ -5,8 +5,6 @@
 ## Tecnologias Usadas
 HTML, CSS, e JavaScript.
 
-## Como visualizar o projeto?
-Disponível do link https://jonathancosta746.github.io/Game-SuperMario/
 
 
 ##
@@ -62,19 +60,4 @@ Foram adicionadas 3 imagens, ao iniciar o game o javaScript iniciará a animaç�
 
 
 https://user-images.githubusercontent.com/26524921/175052502-61a5a651-1361-4359-b771-1fbc63ae0b49.mp4
-
-
-
-#
-
-
-Um pouco mais sobre o projeto neste [link](https://www.youtube.com/watch?v=4WDCv1O13AY) no youtube.
-Para dúvidas ou sugestões poderá me contatar através do meu [email](mailto:jonathancosta746@gmail.com) ou [Linkedin](https://www.linkedin.com/in/jonathansantos-costa/).
-
-
-
-
-
-
-
 
